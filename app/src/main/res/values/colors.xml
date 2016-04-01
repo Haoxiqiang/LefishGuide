@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FBD84B</color>
+    <color name="colorPrimaryDark">#FBD84B</color>
+    <color name="colorAccent">#FBD84B</color>
+    <color name="indicator">#DE5130</color>
+    <color name="indicator_uncheck">#FF222222</color>
+</resources>
